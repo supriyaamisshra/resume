@@ -2,8 +2,7 @@
 🔭 I’m currently working on JoDW<br>👯 I’m looking to collaborate on Web3 projects for back-end development, <br>🌱 I’m currently learning <br>💬  Ask me about anything :P.<br>⚡ Fun fact: I want to learn music vocal and instrumental, just got my first Ukele.
 
 ## 💰 Support my work!
-
-[☕ Buy me a coffee!](https://www.buymeacoffee.com/supriyaamisshra)
+<a href="https://www.buymeacoffee.com/supriyaamisshra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/supriyaamisshra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supriyaamisra) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@supriyaamisshra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6730666) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Supriyaamisraa) 
