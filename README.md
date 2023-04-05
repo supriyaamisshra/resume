@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on JoDW<br>👯 I’m looking to collaborate on Web3 projects for back-end development, <br>🌱 I’m currently learning <br>💬  Ask me about anything :P.<br>⚡ Fun fact: I want to learn music vocal and instrumental, just got my first Ukele.
 
+## 💰 Support my work!
+
+[☕ Buy me a coffee!](https://www.buymeacoffee.com/supriyaamisshra)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/supriyaamisshra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supriyaamisra) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@supriyaamisshra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6730666) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Supriyaamisraa) 
@@ -16,9 +19,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=supriyaamisshra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Supriyaamisraa)](https://github.com/supriyaamisshra/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Supriyaamisraa)](https://github.com/supriyaamisshra)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=supriyaamisshra&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
